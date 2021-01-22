@@ -7,6 +7,8 @@ namespace Linq_In_Manhattan
 {
     public class Features
     {
+        internal object properties;
+
         public string type { get; set; }
         // public Geometry geometry { get; set; }
         // public Properties Properties { get; set; }
