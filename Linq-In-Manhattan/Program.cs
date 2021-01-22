@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Newtonsoft.Json;
 using System.Linq;
 using System.IO;
+using Linq_In_Manhattan.Classes;
 
 namespace Linq_In_Manhattan
 {

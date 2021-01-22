@@ -19,3 +19,6 @@ This is a console application that shows off several different LINQ queries that
 ## Change Log:
 1.0 Initial Commit 
 
+## Sources: (used for converting JSON data)
+- https://jsonutils.com/
+- https://json2csharp.com/
