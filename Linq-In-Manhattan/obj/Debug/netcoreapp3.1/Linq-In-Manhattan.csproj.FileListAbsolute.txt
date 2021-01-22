@@ -1,0 +1,15 @@
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\bin\Debug\netcoreapp3.1\Linq-In-Manhattan.exe
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\bin\Debug\netcoreapp3.1\Linq-In-Manhattan.deps.json
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\bin\Debug\netcoreapp3.1\Linq-In-Manhattan.runtimeconfig.json
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\bin\Debug\netcoreapp3.1\Linq-In-Manhattan.runtimeconfig.dev.json
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\bin\Debug\netcoreapp3.1\Linq-In-Manhattan.dll
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\bin\Debug\netcoreapp3.1\Linq-In-Manhattan.pdb
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\obj\Debug\netcoreapp3.1\Linq-In-Manhattan.csprojAssemblyReference.cache
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\obj\Debug\netcoreapp3.1\Linq-In-Manhattan.AssemblyInfoInputs.cache
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\obj\Debug\netcoreapp3.1\Linq-In-Manhattan.AssemblyInfo.cs
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\obj\Debug\netcoreapp3.1\Linq-In-Manhattan.csproj.CoreCompileInputs.cache
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\obj\Debug\netcoreapp3.1\Linq-In-Manhattan.csproj.CopyComplete
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\obj\Debug\netcoreapp3.1\Linq-In-Manhattan.dll
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\obj\Debug\netcoreapp3.1\Linq-In-Manhattan.pdb
+C:\Users\zanyg\Documents\codefellows\401\Lab09-LINQ\Linq-In-Manhattan\obj\Debug\netcoreapp3.1\Linq-In-Manhattan.genruntimeconfig.cache

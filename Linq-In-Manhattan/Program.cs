@@ -1,12 +1,23 @@
 ﻿using System;
+using System.Collections.Generic;
+using Newtonsoft.Json;
+using System.Linq;
+using System.IO;
 
 namespace Linq_In_Manhattan
 {
     class Program
     {
-        static void Main(string[] args)
+
+        public static Example JsonData { get; set; }
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+        }
+
+        public static void GetOurJson()
+        {
+            string jsonString = File.ReadAllText("../../../../data.json");
+            JsonData = JsonConvert.DeserializeObject<Example>(jsonString);
         }
     }
 }

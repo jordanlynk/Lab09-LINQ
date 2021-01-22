@@ -1,10 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Newtonsoft.Json;
 
-namespace Linq_In_Manhattan
+namespace Linq_In_Manhattan 
 {
-    class Features
+    public class Features
     {
+        public string type { get; set; }
+        // public Geometry geometry { get; set; }
+        // public Properties Properties { get; set; }
     }
 }
