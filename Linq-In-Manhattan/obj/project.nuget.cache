@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LbW9JtaPXx5Ne1R7xm1qBAYX22nyy4NNVEYkiUYhff2y9xGfTQzqrCFnXx3lHiYgddFrt6suH4tjC/2PlyRXHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zanyg\\Documents\\codefellows\\401\\Lab09-LINQ\\Linq-In-Manhattan\\Linq-In-Manhattan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zanyg\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
